@@ -1,9 +1,10 @@
 python script that automatically download new releases according to your predefined preferences
 
 Prerequisites:
-Python 2,
-PyNotify,
-BeautifulSoup
+Python 2(https://www.python.org/downloads/),
+PyNotify(http://download.gna.org/py-notify/),
+BeautifulSoup(https://pypi.python.org/pypi/beautifulsoup4),
+Aria2c torrent client(http://sourceforge.net/projects/aria2/files/stable/aria2-1.18.10/),
 
 How to use:
 
