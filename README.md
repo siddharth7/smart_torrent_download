@@ -1,8 +1,8 @@
 python script that automatically download new releases according to your predefined preferences
 
 Prerequisites:
-Python 2
-PyNotify
+Python 2,
+PyNotify,
 BeautifulSoup
 
 How to use:
